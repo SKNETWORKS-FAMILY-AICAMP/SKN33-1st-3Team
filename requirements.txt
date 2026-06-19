@@ -1,0 +1,9 @@
+beautifulsoup4>=4.15.0
+mysql-connector-python>=9.7.0
+pandas
+plotly
+pymysql
+python-dotenv
+requests
+SQLAlchemy
+streamlit
