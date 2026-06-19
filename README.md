@@ -66,7 +66,6 @@
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/folium-77B829?style=flat-square"/>
     <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
 </p>
 
